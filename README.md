@@ -19,3 +19,8 @@ A client sever based real time chatting desktop application. We have a GUI inter
 ## IDE used
 Vs code
 
+
+## Screenshots
+
+![App Screenshot](ScreenShot/Screenshot (37).png)
+
