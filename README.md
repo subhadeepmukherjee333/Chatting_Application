@@ -22,5 +22,5 @@ Vs code
 
 ## Screenshots
 
-![App Screenshot](ScreenShot/Screenshot (37).png)
+![App Screenshot](https://github.com/subhadeepmukherjee333/Chatting_Application/blob/main/ScreenShot/Screenshot%20(37).png)
 
